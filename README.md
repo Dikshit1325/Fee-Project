@@ -1,4 +1,5 @@
 🎬 Movie Ticket Booking System (Frontend)
+
 🚀 Overview
 
 This project is a frontend-only Movie Ticket Booking System built using React (Vite). It provides a modern and responsive UI where users can browse movies, view show details, and simulate ticket booking.
@@ -21,6 +22,7 @@ Works across desktop and mobile devices
 🎨 CSS / Tailwind (if used) – Styling
 🔄 React Hooks – State management
 🌐 JavaScript (ES6+)
+
 🏗️ Project Structure
 movie-ticket-booking/
 │
@@ -34,6 +36,7 @@ movie-ticket-booking/
 ├── public/
 ├── index.html
 └── README.md
+
 ⚙️ Installation & Setup
 1. Clone the Repository
 git clone https://github.com/your-username/movie-ticket-booking.git
@@ -43,6 +46,7 @@ npm install
 3. Run the Project
 npm run dev
 Open browser at: http://localhost:5173
+
 ⚙️ How It Works
 User lands on homepage
 Selects a movie
@@ -77,6 +81,7 @@ Dikshit Garg
 
 Frontend Developer
 React Enthusiast
+
 🌟 Key Learning Outcomes
 Component-based architecture in React
 State handling using hooks
