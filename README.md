@@ -1,7 +1,6 @@
 🎬 Movie Ticket Booking System (Frontend)
 
 🚀 Overview
-
 This project is a frontend-only Movie Ticket Booking System built using React (Vite). It provides a modern and responsive UI where users can browse movies, view show details, and simulate ticket booking.
 
 The project focuses on UI/UX design, component-based architecture, and state management.
@@ -56,11 +55,8 @@ Views booking summary
 
 ⚠️ Note: This is a frontend-only project. No backend or database is integrated.
 
-📸 Screenshots (Add Here)
-Home Page
-Movie List
-Seat Selection UI
-Booking Summary
+
+
 📈 Future Enhancements
 🔗 Backend integration (Node.js / Express)
 🗄️ Database for bookings
